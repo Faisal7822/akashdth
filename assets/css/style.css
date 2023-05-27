@@ -82,7 +82,7 @@ header{
     height: 60px;
 }
 .menu li a{
-    margin-left: 30px !important;
+    margin-left: 25px !important;
     font-family: myfont !important;
     font-weight: 500;
     /* border: 1px solid red !important; */
